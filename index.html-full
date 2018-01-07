@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : WellFormed
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20130731
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Unwise Urge</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+</head>
+<body>
+<!--<div id="logo" class="container">
+	<h1><a href="#">Unwise<span>Urge</span></a></h1>
+	<p>a tribute to Rush</p>
+</div>-->
+<div id="menu" class="container">
+	<img id="uulogo" src="images/uulogomain2.jpg" align="middle" alt="" />
+	<ul>
+		<li class="current_page_item"><a href="#" accesskey="1" title="">Home</a></li>
+		<li><a href="band.html" accesskey="2" title="">The Band</a></li>
+		<li><a href="shows.html" accesskey="3" title="">Shows</a></li>
+		<li><a href="media.html" accesskey="4" title="">Media</a></li>
+		<li><a href="contact.html" accesskey="5" title="">Contact Us</a></li>
+	</ul>
+</div>
+<div id="banner" class="container">
+	<!--<img id="uulogo" src="images/uulogomain.jpg" align="middle" alt="" />-->
+</div>
+<!--<div id="three-column" class="container">
+	<div id="tbox1">
+		<h2>Bob Williams</h2>
+		<p>Bass / Keyboards</p>
+		<a href="#" class="button">Learn More</a> </div>
+	<div id="tbox2">
+		<h2>Jared Tuk</h2>
+		<p>Guitar</p>
+		<a href="#" class="button">Learn More</a> </div>
+	<div id="tbox3">
+		<h2>Jamie Shearer</h2>
+		<p>Vocals</p>
+		<a href="#" class="button">Learn More</a> </div>
+</div>-->
+<div id="page" class="container">
+	<div id="content">
+		<div class="title">
+			<h2>Welcome <span class="byline">to our website</span></h2>
+		</div>
+		<a href="#" class="image image-full"><img src="images/maingroup.jpg" alt="" /></a>
+		<p>We are <strong>Unwise Urge</strong> - A Tribute to Rush, based in Pittsburgh, PA.</p>
+	</div>
+	<div id="sidebar">
+		<h2 class="title"></h2>
+		<ul class="style2">
+			<li class="first">
+				<h3><a href="#">Jared Tuk</a></h3>
+				<p><a href="#">Lead Guitar</a></p>
+			</li>
+			<li>
+				<h3><a href="#">Jamie Shearer</a></h3>
+				<p><a href="#">Vocals</a></p>
+			</li>
+			<li>
+				<h3><a href="#">Justin Hinerman</a></h3>
+				<p><a href="#">Drums</a></p>
+			</li>
+			<li>
+				<h3><a href="#">Bob Williams</a></h3>
+				<p><a href="#">Bass, Keyboards</a></p>
+			</li>
+		</ul>
+	</div>
+</div>
+<div id="footer" class="container">
+	<div id="fbox1">
+		<h2 class="title">Latest News</h2>
+		<p>We'd like to thank everyone who came out to our show at Schmitt's Saloon. We had a blast and can't wait to see you again soon.</p>
+		<p>We are excited to announce our return to  on Saturday, August 16th when we bring a 3 hour show dedicated to the music of Rush to Schmitt's Saloon! 40 years almost to the day of Neil Peart's first show with Rush at the Civic Arena!</p>
+	</div>
+	<div id="fbox2">
+		<h2 class="title">Upcoming Shows</h2>
+		<ul class="style1">
+			<li class="first"><a href="#">August 16 - Schmitt's Saloon - Morgantown, WV</a></li>
+			<li class="first"><a href="#">More show announcements coming soon!</a></li>
+		</ul>
+		<!--<a href="shows.html" class="button">Shows</a>--> </div>
+	<div id="fbox3">
+		<h2 class="title">Social</h2>
+		<ul class="style1">
+			<li class="first"><a target="_blank" href="http://www.twitter.com/unwiseurge">Twitter</a></li>
+			<li><a target="_blank" href="http://www.facebook.com/unwiseurge">Facebook</a></li>
+			<li><a href="mailto:info@unwiseurge.com">Email</a></li>
+			<!--<li><a href="#">Instagram</a></li>-->
+		</ul>
+	</div>
+</div>
+<div id="copyright" class="container">
+	<p>Copyright (c) 2014 Unwise Urge. All rights reserved. | <a href="mailto:info@unwiseurge.com">info@unwiseurge.com</a></p>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51490652-1', 'unwiseurge.com');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
